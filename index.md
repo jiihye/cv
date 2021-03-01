@@ -1,87 +1,62 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jihye's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jihye Seo
+Software Engineer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+| __E-Mail__ | [sispipi2@gmail.com](sispipi2@gmail.com) |
+| __LinkedIn__ | [https://www.linkedin.com/in/jihye-seo-20365b1b4/](https://www.linkedin.com/in/jihye-seo-20365b1b4/) |
 
 ## Currently
 
-Standing on the shoulders of giants
+Based in Seongnam, South Korea. Working on distributed database management system as a software engineer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Managing distributed database system
+- ...
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Mar 2012 - Feb 2016`
+B.E., in Computer Science and Engineering & Electrical Engineering, UNIST(Ulsan National Institute of Science and Tehchology), Republic of Korea
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Feb 2016 - Feb 2018`
+M.S., in Computer Engineering, UNIST(Ulsan National Institute of Science and Tehchology), Republic of Korea [Advisor: Prof. Beomseok Nam]
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Dec 2017 - now`
+__Storage Platform__, Platform Labs, Naver
+_Software Engineer_
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Projects
 
+- Nbase-T: Elastic DB Sharding Middleware (C / Go / Java)
+
+
+## Publications
+
+- Wook-Hee Kim, **Jihye Seo**, Jinwoong Kim and Beomseok Nam "clfB-tree: Cacheline friendly persistent B-tree for NVRAM", 2018 ACM Transactions on Storage (TOS).
+- **Jihye Seo**, Wook-Hee Kim, Woongki Baek, Beomseok Nam and Sam H. Noh ”Failure-
+Atomic Slotted Paging for Persistent Memory” To appear in 22nd International Confer-
+ence on Architectural Support for Programming Languages and Operating Systems(ASPLOS’17) (17% a/r) Xi’an, Chian, Apr. 2017.
+- Wook-Hee Kim, **Jihye Seo**, Youjip Won and Beomseok Nam ”clfB-tree: Cache Line
+Friendly Persistent B-tree”, 2016 USENIX Annual Technical Conference (USENIX ATC’16) Poster, Denver, CO, Jun. 2016.
+
+
+## Technical Skills
+
+- ...
+- MSA Components
+  - Databases: SQL
+  - Coordinator: Consul
+- Languages
+  - C, Go, Java
 
 
 <!-- ### Footer
