@@ -14,8 +14,10 @@ Based in Seongnam, South Korea. Working on distributed database management syste
 
 ### Specialized in
 
-- Managing distributed database system
-- ...
+- Managing large-scale distributed database systems with strong consistency
+- Designing automatic administration for distributed systems
+- Desiging high available and tolerant architecture for distributed middleware servers
+- Managing/Designing centralized configuration for a large scale system
 
 
 ## Education
@@ -51,12 +53,14 @@ Friendly Persistent B-tree”, 2016 USENIX Annual Technical Conference (USENIX A
 
 ## Technical Skills
 
-- ...
-- MSA Components
-  - Databases: SQL
-  - Coordinator: Consul
+- RDBMS
+  - SQLite, MySQL
+- Configuration Centeralization
+  - Consul
 - Languages
-  - C, Go, Java
+  - C, Go, Java, SQL
+- Java Technologies
+  - JDBC 
 
 
 <!-- ### Footer
